@@ -1,3 +1,13 @@
+<div align="center">
+  <br />
+  <img src="https://github.com/JeongHwan-dev/javascript-100/blob/master/images/js-100_logo.png?raw=true" alt="JavaScript-100" height="200px" />
+  <h1>자바스크립트 100제</h1>
+</div>
+
+[🔗 자바스크립트 100제 바로가기 ](https://www.notion.so/JS-100-94d97d294dd14c9b911a02c840fa9f2d) 👈
+
+<br />
+
 ## 스터디 인원
 
 <table>
